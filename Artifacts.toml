@@ -1,0 +1,160 @@
+[[miniaudio]]
+arch = "aarch64"
+git-tree-sha1 = "12f1aa4422ca41836d7ce74e05105312d8ff9bb3"
+os = "macos"
+
+    [[miniaudio.download]]
+    sha256 = "6c54bea29ebd391c081f5b39306ac2f2791f1afb1d8a65ccbfd599a87fa41bdb"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.aarch64-apple-darwin.tar.gz"
+[[miniaudio]]
+arch = "aarch64"
+git-tree-sha1 = "6a63ae65399640c224933712a2bc86ffe0bf905a"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "e6a1e68cf7d1e19d5fa89677d0b14fc07f22253fdeb54ac8ca777876a94f9f5e"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.aarch64-linux-gnu.tar.gz"
+[[miniaudio]]
+arch = "aarch64"
+git-tree-sha1 = "7f980a91e3386fe371374c0dcff00e4084c103ae"
+libc = "musl"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "7866c68ce01969ebda656f524f70f8331521b144fe6f7a26a01303b6a8078be3"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.aarch64-linux-musl.tar.gz"
+[[miniaudio]]
+arch = "aarch64"
+git-tree-sha1 = "2a82d1f0fac58a0803b2a7c09caf4e24e201caeb"
+os = "freebsd"
+
+    [[miniaudio.download]]
+    sha256 = "f9c26469db392863c4dc41a232514f2d537012d2d336d10d01a190abf43e8085"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.aarch64-unknown-freebsd.tar.gz"
+[[miniaudio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "5b0075205e2125be33930653a7725e9466ddd5cc"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "9f5d665934f5c10679ea8928ff1d3230f1241a176f7cac639a81bc842087ca38"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.armv6l-linux-gnueabihf.tar.gz"
+[[miniaudio]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "b2e2ddf27db5376cfa28072b066dd0f0e60f4199"
+libc = "musl"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "5e0a944be0efe8cedf33f9d52db354d3fc0b7a6aa1918f333f6e77ab6a9545aa"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.armv6l-linux-musleabihf.tar.gz"
+[[miniaudio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2e5d090f23757a16f293fe49a8d20bb322c210d4"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "5ae987a941d0cbc354ff95982f957f468c7a13e5d8859949f6fb5ad514c830d9"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.armv7l-linux-gnueabihf.tar.gz"
+[[miniaudio]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "20ed6b32a96d83b05de44f2ca6a0727cbe343422"
+libc = "musl"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "3b51fe91cd517c65f444bd7fe474773fb5562588fbf46b163f2816b70dfaebd9"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.armv7l-linux-musleabihf.tar.gz"
+[[miniaudio]]
+arch = "i686"
+git-tree-sha1 = "da79f81555d64c2f4a3b15d9a6d5cbbd406c61cc"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "31145ffc774dfc694df129d6710a31047a1c8be515c53e81d0ad10b216fcca5f"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.i686-linux-gnu.tar.gz"
+[[miniaudio]]
+arch = "i686"
+git-tree-sha1 = "3563a360b3494fdcac0b45c026943e13ebc2d692"
+libc = "musl"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "6ca9ec86d469a2428e2e28c4f8df700ef7cb683e21d4b4fdb2a9341317652b39"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.i686-linux-musl.tar.gz"
+[[miniaudio]]
+arch = "i686"
+git-tree-sha1 = "0344a18917161c2fa90d1cfa10c1458816a6a487"
+os = "windows"
+
+    [[miniaudio.download]]
+    sha256 = "733d16005d3f3c8347c0e0e1d0febb1c175c026e010c03a04ef3682c461706d4"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.i686-w64-mingw32.tar.gz"
+[[miniaudio]]
+arch = "powerpc64le"
+git-tree-sha1 = "08501babaf3e2341ed32620b756774ca3b43cd28"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "906efa11fad45a3b012f0897d91fbb9e7a62c7e817cbb9de7eaffc40ea2f32f2"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.powerpc64le-linux-gnu.tar.gz"
+[[miniaudio]]
+arch = "riscv64"
+git-tree-sha1 = "de293dba798886978997a14f056c3c0785db59cb"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "a20e30c2895304d054fd258d0c92c841de033bb6629d66f9d0117fd372e7de8c"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.riscv64-linux-gnu.tar.gz"
+[[miniaudio]]
+arch = "x86_64"
+git-tree-sha1 = "1888a8669529bacacf81dcce637b50fff1665aae"
+os = "macos"
+
+    [[miniaudio.download]]
+    sha256 = "f9c1e534ec17e47297d46b09d6b2675d437d7c9da72c102ad4dda520a7020cd4"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.x86_64-apple-darwin.tar.gz"
+[[miniaudio]]
+arch = "x86_64"
+git-tree-sha1 = "b868da7125e3add602760a0d6fdc3c54dccc7799"
+libc = "glibc"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "b99ba75e6928dbe7d82135b60775d036312efe0402a5e453e530e70f5fc64d1e"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.x86_64-linux-gnu.tar.gz"
+[[miniaudio]]
+arch = "x86_64"
+git-tree-sha1 = "44c9c570b89feed18ac5aaaff3f491c9e2b3df62"
+libc = "musl"
+os = "linux"
+
+    [[miniaudio.download]]
+    sha256 = "de0d0e8e590d0f9b05fb3b9fd272687b07481b9c03f07cc41db67f8624788144"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.x86_64-linux-musl.tar.gz"
+[[miniaudio]]
+arch = "x86_64"
+git-tree-sha1 = "e85ecaee46f139cfce5e1840abf050ccbeb424b0"
+os = "freebsd"
+
+    [[miniaudio.download]]
+    sha256 = "055feada50a78a9c26f87c19766412892af1e1010d723211082f279637c65770"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.x86_64-unknown-freebsd.tar.gz"
+[[miniaudio]]
+arch = "x86_64"
+git-tree-sha1 = "d75175f736832bc57702bbfc8d13c7e82ab3ed40"
+os = "windows"
+
+    [[miniaudio.download]]
+    sha256 = "fd1426271af23f8c7be5917957c258bd09c6172cd25f6b1a93983d79f5cca851"
+    url = "https://github.com/JuliaBinaryWrappers/miniaudio_jll.jl/releases/download/miniaudio-v0.11.25+0/miniaudio.v0.11.25.x86_64-w64-mingw32.tar.gz"
